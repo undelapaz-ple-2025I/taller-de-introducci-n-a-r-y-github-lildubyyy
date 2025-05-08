@@ -2,8 +2,8 @@
 
 solucion <- function() {
   # Asigna un valor a 'a' de manera que el valor asignado a 's' sea 5
-  a <- NULL # asigna valor aquí
-  b <- 20  # asigna valor aquí
+  a <- 25
+  b <- 20 
   s <- a-b
   return(s)
 }
